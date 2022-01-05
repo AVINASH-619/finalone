@@ -1,0 +1,10 @@
+.foot
+{
+    display: flex;
+    background-color: rgb(68, 61, 61);
+    color: white;
+    justify-content: space-around;
+}
+li{
+    list-style: none;
+}
